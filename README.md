@@ -3,6 +3,13 @@
 ### 항공 이미지 데이터를 활용한 건물 변화 탐지	
 1. 대회 baseline pipeline으로 기본 성능 확인
 2. `MMSegmentation`을 사용하여 다양한 pre-trained model, config로 실험 진행
+___
+
+#### MMsegmentation
+```
+# you must clone mmseg
+git clone https://github.com/open-mmlab/mmsegmentation
+```
 
 < 예시 >  
 
